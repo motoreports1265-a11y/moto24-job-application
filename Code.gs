@@ -1,2 +1,1 @@
-// Test file
-console.log('hello');
+// PLACEHOLDER - WILL BE REPLACED
